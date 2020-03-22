@@ -1,38 +1,31 @@
-# Youtube Comments Downloader
+# DJ-Khaled
+
+[![Build 
+Status](https://travis-ci.com/KazuOfficial/DJ-Khaled.svg?branch=master)](https://travis-ci.com/KazuOfficial/DJ-Khaled)
 
 ## Dependencies
 
 * Python 2.7+
-* requests
-* beautifulsoup4 4.8.2
-* lxml
+* discord
+* youtube_dl
+
+## Invite
+
+---------
 
 ## Installation
 
 ```bash
-git clone https://github.com/KazuOfficial/Youtube-Comments-Downloader
+git clone https://github.com/KazuOfficial/DJ-Khaled
 ```
 
 ## Packages
 
-You can install packages with
+Install packages with:
 
-    pip install requests
+	pip install discord
+	
+	pip install youtube_dl
 
-    pip install beautifulsoup4
 
-    pip install lxml
-
-## Usage
-```
-usage: youtube.py [--help] [--limit LIMIT] [--filetype FILETYPE]
-
-Youtube Comments Downloader made by Kazu
-
-optional arguments:
-  --help, -h            Show help message
-  --limit LIMIT, -l LIMIT
-                        Limit number of comments (default: 5)
-  --filetype FILETYPE, -f FILETYPE
-                        Choose output file type (default: json)
-```
+## Commands
