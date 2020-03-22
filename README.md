@@ -28,4 +28,13 @@ Install packages with:
 	pip install youtube_dl
 
 
-## Commands
+## Usage
+```
+  help   Shows this message
+  join   Makes DJ Khaled join your channel
+  leave  Makes DJ Khaled leave your channel
+  ping   Check yo ping!
+  play   Makes DJ Khaled play a song .play [url]
+  shout  Shout DJ Khaled!
+  volume Change volume
+```
