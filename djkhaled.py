@@ -10,7 +10,7 @@ from discord.ext import commands
 
 queuelist = []
 
-TOKEN = 'Njg5ODQ4NTc3Njc3MDY2MjQx.XnbV2g.lQp6g3-adZVY5e2exUsKxruEMYw'
+TOKEN = 'YOUR_TOKEN'
 client = commands.Bot(command_prefix = '.')
 
 @client.event
