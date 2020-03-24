@@ -9,10 +9,6 @@ Status](https://travis-ci.com/KazuOfficial/DJ-Khaled.svg?branch=master)](https:/
 * discord
 * youtube_dl
 
-## Invite
-
----------
-
 ## Installation
 
 ```bash
